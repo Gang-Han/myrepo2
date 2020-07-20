@@ -1,6 +1,7 @@
 # myrepo2
 test
 1 local change
+1.5 local
 2 remote change
 3 ssh
 <<<<<<< HEAD
