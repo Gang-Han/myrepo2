@@ -3,6 +3,7 @@ test
 1 local change
 1.5 local
 2 remote change
+2.5 local
 3 ssh
 <<<<<<< HEAD
 4 this is on local
