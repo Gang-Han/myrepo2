@@ -7,6 +7,7 @@ test
 2.5 local
 =======
 2.5 test
+2.7
 >>>>>>> 8d41c3092fd98b2ea6a715ae98bf136f2fb20362
 3 ssh
 <<<<<<< HEAD
